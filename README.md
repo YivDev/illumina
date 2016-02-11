@@ -10,4 +10,4 @@ This is the offical repository for the new Metin2 interface Illumina designed by
 - [Taskbar und Icons](http://i.epvpimg.com/kfs9e.png)
 
 ## License
-This library is published under the [GNU Lesser General Public License v3.0](#).
+This library is published under the [GNU Lesser General Public License v3.0](https://github.com/YivDev/illumina/blob/master/LICENSE).
