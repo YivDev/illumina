@@ -1,0 +1,2 @@
+class EventEnum(object):
+	pass
